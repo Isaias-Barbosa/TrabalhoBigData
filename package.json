@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "conda": "^0.0.1-a17",
+    "matplotlib": "^1.0.0",
+    "pandas": "^0.0.3"
+  }
+}
